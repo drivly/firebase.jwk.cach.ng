@@ -1,4 +1,4 @@
-name = "jwk.cach.ng"
+name = "jwk-cach-ng"
 workers_dev = false
 account_id = "a826340b3b93189c9ebb7c0eaeba3c46"
 route_name = "jwk.cach.ng"
